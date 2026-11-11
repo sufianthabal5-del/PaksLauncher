@@ -79,7 +79,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.craftstudio.cslauncher"
+        applicationId "com.paks.launcher"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode 10000000
